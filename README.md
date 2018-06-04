@@ -1,3 +1,4 @@
 # Bipolar-NRZ
 Arduino Bipolar NRZ
-Arduino Project Classroom 
+
+[![Build Status](https://travis-ci.org/Gustavocirulo/Bipolar-NRZ.svg?branch=master)](https://travis-ci.org/Gustavocirulo/Bipolar-NRZ)
